@@ -113,11 +113,8 @@ Linear Regression was used as a baseline model. Random Forest was used as a more
 ## Model Results
 
 | Model | MAE | RMSE | R² Score |
-
 |---|---:|---:|---:|
-
 | Linear Regression | 14.23 | 19.39 | 0.25 |
-
 | Random Forest | 10.46 | 15.54 | 0.52 |
 
 The Random Forest model performed better than Linear Regression. It had a lower MAE and RMSE, meaning its predictions were closer to the actual popularity scores. It also had a higher R² score, explaining about 52% of the variation in track popularity.
